@@ -13,20 +13,23 @@
 📌 **Note:** The full notebook exceeds GitHub's preview limit and cannot be displayed directly.   
 > ▶️ [Open in Google Colab](https://colab.research.google.com/drive/1HEmhth4B5h24ksvGZOyfAyPBYyDbfTJX?usp=sharing) to view and execute.
 
-## 📋 Project Overview
+## 🎯 Project Overview
 
-This advanced time series forecasting system predicts future fuel sales across multiple retail locations using ensemble machine learning techniques. The system integrates site metadata with historical sales data, incorporates external factors like weather conditions, and employs sophisticated feature engineering to create highly accurate sales forecasts.
+This advanced time series forecasting system predicts future fuel sales across multiple retail locations by leveraging a diverse ensemble of machine learning and deep learning models. It integrates site metadata with historical fuel sales, incorporates external drivers such as weather conditions and location-specific attributes, and employs advanced feature engineering to deliver high-accuracy, site-level demand forecasts.
 
-The architecture follows a modular pipeline approach, from data acquisition and cleaning through feature engineering to model training and forecast generation. Multiple algorithms are supported with cross-validation capabilities to ensure comprehensive performance evaluation.
+The system is built on a modular pipeline architecture covering data acquisition, preprocessing, feature transformation, model training, validation, and forecast generation. It supports a wide range of models including **LightGBM**, **XGBoost**, **CatBoost**, **Prophet**, **SARIMAX**, and **LSTM**, combined using ensemble learning techniques. Forward-chaining cross-validation and diagnostic tools are incorporated to ensure comprehensive, reproducible, and production-ready performance evaluation.
+
+---
 
 ## 💼 Business Context
 
-Fuel sales forecasting provides significant business value for retail fuel operations:
+Fuel sales forecasting delivers substantial business value for retail fuel operations by driving data-informed decision-making across operational and strategic functions:
 
-- **Revenue Optimization**: Accurately predicting sales enables optimal inventory management and pricing strategies
-- **Cost Reduction**: Precise forecasting reduces carrying costs and minimizes stockouts
-- **Operational Efficiency**: Time series forecasting enables efficient resource allocation and staff scheduling
-- **Strategic Planning**: Long-term forecasts support expansion planning and capital investment decisions
+- **Revenue Optimization**: Accurate forecasts enable dynamic pricing and optimal inventory turnover, improving gross margins across retail locations.
+- **Cost Reduction**: Reduces overstocking, emergency replenishment, and transportation inefficiencies, directly minimizing holding and logistics costs.
+- **Operational Efficiency**: Supports smarter allocation of fleet, staff, and storage resources by predicting demand variability at a granular level.
+- **Strategic Planning and Investment**: Enables long-term forecasting to guide infrastructure investments, territory expansion, and budget planning.
+- **Risk Management**: Incorporates external variables (e.g., weather patterns) to reduce forecasting volatility and strengthen contingency planning.
 
 ## 📊 Dataset Details
 
