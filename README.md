@@ -10,8 +10,7 @@
 [![Prophet](https://img.shields.io/badge/Facebook%20Prophet-v1.1.2-blueviolet)](https://facebook.github.io/prophet/)
 [![statsmodels](https://img.shields.io/badge/statsmodels-v0.14.0-informational)](https://www.statsmodels.org/)
 
-📌 **Note:** The full notebook exceeds GitHub's preview limit and cannot be displayed directly.  
-> 🔽 [Download the notebook](./Fuel_Sales_Time_Series_Forecasting_System.ipynb) or  
+📌 **Note:** The full notebook exceeds GitHub's preview limit and cannot be displayed directly.   
 > ▶️ [Open in Google Colab](https://colab.research.google.com/drive/1HEmhth4B5h24ksvGZOyfAyPBYyDbfTJX?usp=sharing) to view and execute.
 
 ## 📋 Project Overview
