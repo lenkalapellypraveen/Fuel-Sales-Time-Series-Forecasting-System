@@ -1,10 +1,15 @@
 # 🔄 Fuel Sales Time Series Forecasting System
 
-<div>
-  <span style="background-color:#2874A6;color:white;padding:5px;border-radius:5px;margin-right:5px;">version 1.0.0</span>
-  <span style="background-color:#1F618D;color:white;padding:5px;border-radius:5px;margin-right:5px;">Python 3.7+</span>
-  <span style="background-color:#273746;color:white;padding:5px;border-radius:5px;">TensorFlow 2.x</span>
-</div>
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.x-F7931E.svg)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1.7+-blue.svg)](https://xgboost.readthedocs.io/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-3.3+-lightgreen.svg)](https://lightgbm.readthedocs.io/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-1.2%2B-yellowgreen.svg)](https://catboost.ai/)
+[![Prophet](https://img.shields.io/badge/Facebook%20Prophet-v1.1.2-blueviolet)](https://facebook.github.io/prophet/)
+[![statsmodels](https://img.shields.io/badge/statsmodels-v0.14.0-informational)](https://www.statsmodels.org/)
+
 
 ## 📋 Project Overview
 
